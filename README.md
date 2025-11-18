@@ -8,7 +8,7 @@ The repository provides code for data preprocessing, model training, inference, 
 ---
 
 ## 🧩 Installation
-
+This codebase requires Python 3.11.8.
 Clone the repository and install dependencies:
 
 ```bash
